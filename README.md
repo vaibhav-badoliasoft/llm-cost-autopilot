@@ -142,13 +142,7 @@ python test_day1.py
 
 ## Build Progress
 
-- [x] Day 1 — Provider abstraction + model registry
-- [ ] Day 2 — Complexity classifier
-- [ ] Day 3 — FastAPI router
-- [ ] Day 4 — Async quality verifier
-- [ ] Day 5 — SQLite logging + cost tracking
-- [ ] Day 6 — Streamlit dashboard
-- [ ] Day 7 — Docker + final eval
+- [x] Provider abstraction + model registry
 
 ---
 
