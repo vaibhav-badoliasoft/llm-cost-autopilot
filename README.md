@@ -142,7 +142,8 @@ python test_day1.py
 
 ## Build Progress
 
-- [x] Provider abstraction + model registry
+- [x] Step1: Provider abstraction + model registry
+- [x] Step2: Complexity classifier
 
 ---
 

@@ -1,6 +1,25 @@
+# Virtual environment
 venv/
+
+# Python cache
 __pycache__/
 *.pyc
-*.pkl
+*.pyo
+*.pyd
+
+# Environment variables
 .env
+
+# Trained model (large binary)
+*.pkl
+
+# Database
 *.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
