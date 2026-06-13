@@ -1,6 +1,6 @@
 # LLM Cost Autopilot
 
-An intelligent LLM routing layer that sits in front of multiple providers, analyzes each request's complexity, and routes it to the cheapest model capable of handling it — without sacrificing quality.
+An intelligent LLM routing layer that sits in front of multiple providers, analyzes each request's complexity, and routes it to the cheapest model capable of handling it; without sacrificing quality.
 
 **Baseline result: 66% cost reduction on 30-request load test vs all-GPT-4o routing.**
 
@@ -149,4 +149,4 @@ python test_day1.py
 
 ## Author
 
-Vaibhav Saini — [GitHub](https://github.com/vaibhav-badoliasoft) · [Portfolio](https://vaibhavsainiportfolio.vercel.app)
+Vaibhav Saini: [GitHub](https://github.com/vaibhav-badoliasoft) · [Portfolio](https://vaibhavsainiportfolio.vercel.app)
