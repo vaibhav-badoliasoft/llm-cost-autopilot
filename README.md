@@ -144,9 +144,10 @@ python test_day1.py
 
 - [x] Step1: Provider abstraction + model registry
 - [x] Step2: Complexity classifier
+- [x] Step 3: FastAPI router
 
 ---
 
 ## Author
 
-Vaibhav Saini: [GitHub](https://github.com/vaibhav-badoliasoft) · [Portfolio](https://vaibhavsainiportfolio.vercel.app)
+Vaibhav Saini: [GitHub](https://github.com/vsaini06) · [Portfolio](https://vaibhavsaini-portfolio.vercel.app/)

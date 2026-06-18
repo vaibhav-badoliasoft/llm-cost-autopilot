@@ -1,0 +1,26 @@
+routing:
+  tier_1:
+    primary: llama3.2
+    fallback: gpt-4o-mini
+    description: "Simple tasks - extraction, basic Q&A, formatting"
+
+  tier_2:
+    primary: gpt-4o-mini
+    fallback: claude-haiku
+    description: "Moderate tasks - summarization, classification, short analysis"
+
+  tier_3:
+    primary: gpt-4o
+    fallback: claude-sonnet
+    description: "Complex tasks - multi-step reasoning, nuanced judgment, long-form"
+
+quality:
+  judge_model: gpt-4o
+  min_acceptable_score: 3.5
+  escalation_score_gap: 1.5
+  async_verification: true
+
+escalation:
+  enabled: true
+  max_tier_jump: 1
+  log_cost_delta: true
