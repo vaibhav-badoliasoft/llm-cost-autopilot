@@ -146,6 +146,7 @@ python test_day1.py
 - [x] Step2: Complexity classifier
 - [x] Step 3: FastAPI router
 - [x] Step 4: Async quality verifier
+- [x] Step 5: SQLite logging + cost tracking
 
 ---
 
